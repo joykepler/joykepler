@@ -1,11 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-
 <h1> Oii 💜💜 </h1>
 <h3>Eu sou a Joyce, profissional de T.I na área de front-end. Muito prazer!</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joykepler&show_icons=true&theme=synthwave)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joykepler&layout=compact&langs_count=16&theme=synthwave)
+<a href="https://github.com/joykepler">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joykepler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joykepler&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
 
 <h2> Tecnologias Que Utilizo</h2>
 
