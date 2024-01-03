@@ -1,5 +1,5 @@
 <h1> Oii 💜💜 </h1>
-<h3>Eu sou a Joyce, profissional de T.I na área de front-end. Muito prazer!</h3>
+<h3>Eu sou a Joy, profissional de T.I na área de front-end. Muito prazer!</h3>
 
 <a href="https://github.com/joykepler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joykepler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
