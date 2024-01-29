@@ -6,7 +6,6 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joykepler&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 
-
 <h2> Tecnologias Que Utilizo</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
