@@ -12,8 +12,3 @@
 ![Sass](https://img.shields.io/badge/Sass-853dd8?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-853dd8?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-853dd8?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-
-<h2>Minhas Redes Sociais</h2>
-
-<a href="https://www.linkedin.com/in/joyce-kepler-433025265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-853dd8?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
