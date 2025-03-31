@@ -1,10 +1,10 @@
-<h1> Hi! <3 </h1>
+<h1> Welcome to my GitHub! </h1>
 <a href="https://github.com/joykepler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joykepler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joykepler&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 
-<h2> Tecnologias:</h2>
+<h2>Technologies:</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-853dd8?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-853dd8?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
