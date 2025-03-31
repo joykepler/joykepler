@@ -1,4 +1,4 @@
-<h1> Oii 💜💜 </h1>
+<h1> Hi! </h1>
 <a href="https://github.com/joykepler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joykepler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joykepler&layout=compact&langs_count=8&theme=midnight-purple"/>
